@@ -1,1 +1,1 @@
-# banka-uygulamas-
+# banka-uygulamasi
